@@ -4,7 +4,8 @@ You'll find here the last libimobiledevice updates for Windows. <br>
 
 
 setup for windows autoextract path :
-https://mega.nz/#!g0N11B6Q!OD9vIsOsmy6IE0sxpV_B-rxWwsIPOt87AtgVePFWxSY
+https://mega.nz/#!olEmyC4D!LnCKNVAtHRDk5SnUaSwD9xdydKgk-MhBQNW66uKsaNY
+
 
 
 ##Credits <br>
