@@ -4,7 +4,9 @@ You'll find here the last libimobiledevice updates for Windows. <br>
 
 
 
-https://mega.nz/#!ZkVjXQ4D!iiN_nwy5H9q3-WCXD86REUm7UD56Ciq1unRaYoy-fZ0
+
+https://mega.nz/#!1gcFyaRa!wTx7JKt3kGhgksuSObVb_E8BIa5ZoectNtpzxP-m1ik
+
 
 
 
