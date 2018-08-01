@@ -9,6 +9,11 @@ You'll find here the last libimobiledevice updates for Windows. <br>
 https://mega.nz/#!o0lwWZwT!o3mDd9r7uzo8Veiu_OyBm8-GFbP7JJrCLnaHfDFnvoQ
 
 
+idevicerestore compiled library
+
+https://mega.nz/#F!d08DnbTJ!WlPriFd0ZHubduuKgP402A
+
+
 
 
 
